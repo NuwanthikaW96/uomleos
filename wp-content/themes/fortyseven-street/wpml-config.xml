@@ -1,0 +1,55 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_fortyseven-street">
+            <key name="footer_section" />
+            <key name="section_one_section_title" />
+            <key name="section_one_button_text" />
+            <key name="section_one_button_link" />
+            <key name="section_two_section_title" />
+            <key name="section_two_section_desc" />
+            <key name="section_three_section_title" />
+            <key name="section_three_section_desc" />
+            <key name="section_four_section_title" />
+            <key name="section_four_section_desc" />
+            <key name="section_four_button_text" />
+            <key name="section_six_section_title" />
+            <key name="section_six_section_desc" />
+            <key name="section_six_button_text" />
+            <key name="section_six_button_link" />
+            <key name="section_seven_section_title" />
+            <key name="section_seven_section_desc" />
+            <key name="section_eight_section_title" />
+            <key name="section_eight_section_desc" />
+            <key name="section_eight_button_text" />
+            <key name="section_eight_button_link" />
+            <key name="section_nine_section_title" />
+            <key name="section_nine_section_desc" />
+            <key name="section_nine_button_text" />
+            <key name="section_nine_button_link" />
+            <key name="section_ten_section_title" />
+            <key name="section_ten_section_desc" />
+            <key name="facebook" />
+            <key name="twitter" />
+            <key name="instagram" />
+            <key name="google_plus" />
+            <key name="youtube" />
+            <key name="pinterest" />
+            <key name="linkedin" />
+            <key name="flickr" />
+            <key name="vimeo" />
+            <key name="stumbleupon" />
+            <key name="skype" />
+
+            <key name="slider_category" />
+            <key name="section_one_page" />
+            <key name="section_two_page" />
+            <key name="section_three_page" />
+            <key name="section_four_page" />
+            <key name="section_six_page" />
+            <key name="section_seven_page" />
+            <key name="section_nine_page" />
+            <key name="section_ten_page" />
+            
+        </key>
+    </admin-texts>
+</wpml-config>
